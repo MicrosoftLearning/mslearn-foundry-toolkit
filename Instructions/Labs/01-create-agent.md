@@ -16,7 +16,7 @@ This exercise should take approximately **60** minutes to complete.
 ## Before you start
 
 1. Complete the [setup](./00-setup.md) for this exercise to ensure you have the necessary accounts, tools, and files to complete the exercise.
-1. Start Visual Studio Code, and open the Command Palette (*Ctrl+Shift+P*, or on the **View** menu, select **Command Palette**). Then enter the `Git: Clone` command, and clone `https://github.com/GraemeMalcolm/mslearn-foundry-toolkit` to a local folder of your choice.
+1. Start Visual Studio Code, and open the Command Palette (*Ctrl+Shift+P*, or on the **View** menu, select **Command Palette**). Then enter the `Git: Clone` command, and clone `https://github.com/MicrosoftLearning/mslearn-foundry-toolkit` to a local folder of your choice.
 1. When the clone is complete, open the folder when prompted.
 
     The lab files include the code files and resources you'll need to complete the lab exercises.
